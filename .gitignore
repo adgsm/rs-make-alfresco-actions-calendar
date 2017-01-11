@@ -1,1 +1,14 @@
-/target/
+target
+.project
+.classpath
+*.log
+.settings
+alf_data_dev
+alfresco.log.*
+RemoteSystemsTempFiles
+.metadata
+mvnbuild.cmd
+/bin/
+release.properties
+**/.DS_Store
+run.*
